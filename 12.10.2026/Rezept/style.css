@@ -1,0 +1,33 @@
+h1 {
+        color: rgb(210, 86, 128);
+}
+
+h1, h2, h3 {
+        font-family: 'Brush Script MT', cursive;
+        font-weight: 400;
+        font-size: 355%;
+}
+
+body{
+        background-color: rgb(195, 187, 178);
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 549;
+        color: black;
+}
+
+#Zeit {
+        background-color: rgb(215, 150, 171);
+}
+
+.wichtig {
+        background-color: beige;
+        font-size:medium;
+}
+
+.fett {
+        font-weight: bold;
+}
+
+.wichtig.fett {
+        border: 80px rgb(130, 15, 34);
+}
