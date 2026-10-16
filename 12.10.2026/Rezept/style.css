@@ -65,3 +65,7 @@ body{
 .underlined {
         text-decoration: underline;
 }
+
+ul li:nth-of-type(even) {
+        background-color: rgb(235, 186, 112);
+}
